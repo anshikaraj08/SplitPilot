@@ -39,7 +39,3 @@ Demo login:
 
 - Email: `demo@splitpilot.local`
 - Password: `splitpilot123`
-
-## AI Used
-
-Codex was used as the primary implementation collaborator. The implementation was reviewed and scoped against the assignment requirements.
